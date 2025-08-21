@@ -1,0 +1,45 @@
+body{
+    height: 100vh;
+    background-color: rgba(0, 0, 255, 0.333);
+    text-align: center;
+}
+.box{
+    background-color: rgba(255, 255, 255, 0.114);
+}
+table{
+    width: 90%;
+    text-align: center;
+    margin: 0 auto;
+   border-collapse: collapse;
+}
+thead{
+    background-color: orange;
+}
+thead th{
+    padding: 10px;
+    border-bottom: 1px solid gray;
+     border-right: 1px solid gray;
+    border-left: 1px solid gray;
+    border-top: 1px solid gray;
+}
+tbody td {
+    padding: 10px;
+    border-bottom: 1px solid gray;
+    border-right: 1px solid gray;
+    border-left: 1px solid gray;
+    background-color:rgb(9, 9, 67) ;
+    color: white;
+}
+.card2{
+    border: 1px solid black;
+    width: 400px;
+    margin: 0 auto;
+    background-color:rgb(9, 9, 67) ;
+    margin-bottom: 30px;
+}
+.card2 h3{
+    color: orange;
+}
+.card2 p{
+    color: white;
+}
